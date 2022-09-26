@@ -3,4 +3,4 @@
 # ディレクトリは許可
 !*/
 # 許可
-!Assets/Sankusa/*.cs
+!*.cs
